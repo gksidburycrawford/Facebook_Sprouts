@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook_Sprouts</string>
+
+    <string name="facebook_app_id">204618697560332</string>
+    <string name="facebook_login_protocol_scheme">fb204618697560332</string>
+
+
+</resources>
